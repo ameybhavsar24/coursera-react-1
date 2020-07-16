@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/coursera-react-1/static/css/main.4f15186f.chunk.css",
+    "main.js": "/coursera-react-1/static/js/main.3d5fb78b.chunk.js",
+    "main.js.map": "/coursera-react-1/static/js/main.3d5fb78b.chunk.js.map",
+    "runtime-main.js": "/coursera-react-1/static/js/runtime-main.70f59b5a.js",
+    "runtime-main.js.map": "/coursera-react-1/static/js/runtime-main.70f59b5a.js.map",
+    "static/css/2.bb4ba17c.chunk.css": "/coursera-react-1/static/css/2.bb4ba17c.chunk.css",
+    "static/js/2.2cb298a2.chunk.js": "/coursera-react-1/static/js/2.2cb298a2.chunk.js",
+    "static/js/2.2cb298a2.chunk.js.map": "/coursera-react-1/static/js/2.2cb298a2.chunk.js.map",
+    "index.html": "/coursera-react-1/index.html",
+    "precache-manifest.88f5ce915727bb3b0c3680afb625ccaa.js": "/coursera-react-1/precache-manifest.88f5ce915727bb3b0c3680afb625ccaa.js",
+    "service-worker.js": "/coursera-react-1/service-worker.js",
+    "static/css/2.bb4ba17c.chunk.css.map": "/coursera-react-1/static/css/2.bb4ba17c.chunk.css.map",
+    "static/css/main.4f15186f.chunk.css.map": "/coursera-react-1/static/css/main.4f15186f.chunk.css.map",
+    "static/js/2.2cb298a2.chunk.js.LICENSE.txt": "/coursera-react-1/static/js/2.2cb298a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70f59b5a.js",
+    "static/css/2.bb4ba17c.chunk.css",
+    "static/js/2.2cb298a2.chunk.js",
+    "static/css/main.4f15186f.chunk.css",
+    "static/js/main.3d5fb78b.chunk.js"
+  ]
+}
